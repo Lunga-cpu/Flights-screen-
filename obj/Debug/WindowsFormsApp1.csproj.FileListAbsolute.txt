@@ -1,0 +1,11 @@
+C:\Users\Lunga\Desktop\APD101 sem2\Week 5 [04 Oct] More Revision on OOP Basics-20211005\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lunga\Desktop\APD101 sem2\Week 5 [04 Oct] More Revision on OOP Basics-20211005\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lunga\Desktop\APD101 sem2\Week 5 [04 Oct] More Revision on OOP Basics-20211005\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lunga\Desktop\APD101 sem2\Week 5 [04 Oct] More Revision on OOP Basics-20211005\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lunga\Desktop\APD101 sem2\Week 5 [04 Oct] More Revision on OOP Basics-20211005\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmflights.resources
+C:\Users\Lunga\Desktop\APD101 sem2\Week 5 [04 Oct] More Revision on OOP Basics-20211005\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lunga\Desktop\APD101 sem2\Week 5 [04 Oct] More Revision on OOP Basics-20211005\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lunga\Desktop\APD101 sem2\Week 5 [04 Oct] More Revision on OOP Basics-20211005\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lunga\Desktop\APD101 sem2\Week 5 [04 Oct] More Revision on OOP Basics-20211005\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lunga\Desktop\APD101 sem2\Week 5 [04 Oct] More Revision on OOP Basics-20211005\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lunga\Desktop\APD101 sem2\Week 5 [04 Oct] More Revision on OOP Basics-20211005\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
